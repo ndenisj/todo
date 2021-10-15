@@ -5,8 +5,8 @@ import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:todo_list/screens/my_todo/myTodo.model.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-class PermitWidget extends StatelessWidget {
-  const PermitWidget(this.item);
+class TodoWidget extends StatelessWidget {
+  const TodoWidget(this.item);
   final Todo item;
 
   static Color _getColors(int index) {

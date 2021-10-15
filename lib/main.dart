@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:todo_list/screens/my_todo/myTodo.view.dart';
-import 'package:todo_list/screens/slidetest.dart';
 
 void main() {
   runApp(const MyApp());
